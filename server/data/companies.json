@@ -1,0 +1,1004 @@
+{
+  "companies": [
+    {
+      "id": "1",
+      "name": "TechNova Solutions",
+      "location": "Los Angeles, CA",
+      "industry": "Education",
+      "employees": 4062,
+      "founded": 1987,
+      "description": "TechNova Solutions provides high-quality innovative solutions in the Education sector.",
+      "website": "technovasolutions.com"
+    },
+    {
+      "id": "2",
+      "name": "BlueWave Analytics",
+      "location": "New York, NY",
+      "industry": "Finance",
+      "employees": 1875,
+      "founded": 1984,
+      "description": "BlueWave Analytics provides high-quality innovative solutions in the Finance sector.",
+      "website": "bluewaveanalytics.com"
+    },
+    {
+      "id": "3",
+      "name": "GlobalTrust Finance",
+      "location": "San Francisco, CA",
+      "industry": "Healthcare",
+      "employees": 3266,
+      "founded": 2016,
+      "description": "GlobalTrust Finance provides high-quality innovative solutions in the Healthcare sector.",
+      "website": "globaltrustfinance.com"
+    },
+    {
+      "id": "4",
+      "name": "Evergreen Energy Systems",
+      "location": "Los Angeles, CA",
+      "industry": "Healthcare",
+      "employees": 1156,
+      "founded": 1996,
+      "description": "Evergreen Energy Systems provides high-quality innovative solutions in the Healthcare sector.",
+      "website": "evergreenenergysystems.com"
+    },
+    {
+      "id": "5",
+      "name": "BrightMind Technologies",
+      "location": "Austin, TX",
+      "industry": "Media & Entertainment",
+      "employees": 1088,
+      "founded": 1987,
+      "description": "BrightMind Technologies provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "brightmindtechnologies.com"
+    },
+    {
+      "id": "6",
+      "name": "CloudNest Innovations",
+      "location": "Los Angeles, CA",
+      "industry": "Logistics",
+      "employees": 3883,
+      "founded": 2001,
+      "description": "CloudNest Innovations provides high-quality innovative solutions in the Logistics sector.",
+      "website": "cloudnestinnovations.com"
+    },
+    {
+      "id": "7",
+      "name": "UrbanGrid Logistics",
+      "location": "Seattle, WA",
+      "industry": "Logistics",
+      "employees": 5937,
+      "founded": 1982,
+      "description": "UrbanGrid Logistics provides high-quality innovative solutions in the Logistics sector.",
+      "website": "urbangridlogistics.com"
+    },
+    {
+      "id": "8",
+      "name": "MediCare Plus",
+      "location": "Denver, CO",
+      "industry": "Technology",
+      "employees": 936,
+      "founded": 1981,
+      "description": "MediCare Plus provides high-quality innovative solutions in the Technology sector.",
+      "website": "medicareplus.com"
+    },
+    {
+      "id": "9",
+      "name": "SilverLine Retailers",
+      "location": "Los Angeles, CA",
+      "industry": "Data & Analytics",
+      "employees": 4604,
+      "founded": 2010,
+      "description": "SilverLine Retailers provides high-quality innovative solutions in the Data & Analytics sector.",
+      "website": "silverlineretailers.com"
+    },
+    {
+      "id": "10",
+      "name": "GreenCore Industries",
+      "location": "Seattle, WA",
+      "industry": "Healthcare",
+      "employees": 5738,
+      "founded": 2001,
+      "description": "GreenCore Industries provides high-quality innovative solutions in the Healthcare sector.",
+      "website": "greencoreindustries.com"
+    },
+    {
+      "id": "11",
+      "name": "ApexSoft Technologies",
+      "location": "Los Angeles, CA",
+      "industry": "Healthcare",
+      "employees": 603,
+      "founded": 2010,
+      "description": "ApexSoft Technologies provides high-quality innovative solutions in the Healthcare sector.",
+      "website": "apexsofttechnologies.com"
+    },
+    {
+      "id": "12",
+      "name": "FinEdge Capital",
+      "location": "Atlanta, GA",
+      "industry": "Media & Entertainment",
+      "employees": 4004,
+      "founded": 1994,
+      "description": "FinEdge Capital provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "finedgecapital.com"
+    },
+    {
+      "id": "13",
+      "name": "HealthBridge Labs",
+      "location": "Chicago, IL",
+      "industry": "Technology",
+      "employees": 2799,
+      "founded": 1990,
+      "description": "HealthBridge Labs provides high-quality innovative solutions in the Technology sector.",
+      "website": "healthbridgelabs.com"
+    },
+    {
+      "id": "14",
+      "name": "EcoMotion Energy",
+      "location": "San Francisco, CA",
+      "industry": "Education",
+      "employees": 5294,
+      "founded": 1993,
+      "description": "EcoMotion Energy provides high-quality innovative solutions in the Education sector.",
+      "website": "ecomotionenergy.com"
+    },
+    {
+      "id": "15",
+      "name": "PrimeRetail Hub",
+      "location": "Boston, MA",
+      "industry": "Data & Analytics",
+      "employees": 2429,
+      "founded": 2008,
+      "description": "PrimeRetail Hub provides high-quality innovative solutions in the Data & Analytics sector.",
+      "website": "primeretailhub.com"
+    },
+    {
+      "id": "16",
+      "name": "DataFlow Systems",
+      "location": "Seattle, WA",
+      "industry": "Technology",
+      "employees": 5082,
+      "founded": 1998,
+      "description": "DataFlow Systems provides high-quality innovative solutions in the Technology sector.",
+      "website": "dataflowsystems.com"
+    },
+    {
+      "id": "17",
+      "name": "SkyHigh Media",
+      "location": "Seattle, WA",
+      "industry": "Finance",
+      "employees": 2238,
+      "founded": 1997,
+      "description": "SkyHigh Media provides high-quality innovative solutions in the Finance sector.",
+      "website": "skyhighmedia.com"
+    },
+    {
+      "id": "18",
+      "name": "VisionPath Studios",
+      "location": "Los Angeles, CA",
+      "industry": "Data & Analytics",
+      "employees": 2389,
+      "founded": 2005,
+      "description": "VisionPath Studios provides high-quality innovative solutions in the Data & Analytics sector.",
+      "website": "visionpathstudios.com"
+    },
+    {
+      "id": "19",
+      "name": "NeuroWorks AI",
+      "location": "Atlanta, GA",
+      "industry": "Education",
+      "employees": 902,
+      "founded": 2013,
+      "description": "NeuroWorks AI provides high-quality innovative solutions in the Education sector.",
+      "website": "neuroworksai.com"
+    },
+    {
+      "id": "20",
+      "name": "QuantumPeak Technologies",
+      "location": "Austin, TX",
+      "industry": "Media & Entertainment",
+      "employees": 3292,
+      "founded": 1996,
+      "description": "QuantumPeak Technologies provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "quantumpeaktechnologies.com"
+    },
+    {
+      "id": "21",
+      "name": "InnovaWorks Labs",
+      "location": "New York, NY",
+      "industry": "Finance",
+      "employees": 3348,
+      "founded": 2007,
+      "description": "InnovaWorks Labs provides high-quality innovative solutions in the Finance sector.",
+      "website": "innovaworkslabs.com"
+    },
+    {
+      "id": "22",
+      "name": "NextGen Finance",
+      "location": "Los Angeles, CA",
+      "industry": "Technology",
+      "employees": 3959,
+      "founded": 2020,
+      "description": "NextGen Finance provides high-quality innovative solutions in the Technology sector.",
+      "website": "nextgenfinance.com"
+    },
+    {
+      "id": "23",
+      "name": "CarePoint Medical",
+      "location": "New York, NY",
+      "industry": "Media & Entertainment",
+      "employees": 4226,
+      "founded": 2010,
+      "description": "CarePoint Medical provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "carepointmedical.com"
+    },
+    {
+      "id": "24",
+      "name": "Solaris Energy Group",
+      "location": "Los Angeles, CA",
+      "industry": "Education",
+      "employees": 4612,
+      "founded": 2006,
+      "description": "Solaris Energy Group provides high-quality innovative solutions in the Education sector.",
+      "website": "solarisenergygroup.com"
+    },
+    {
+      "id": "25",
+      "name": "RetailSphere",
+      "location": "Los Angeles, CA",
+      "industry": "Finance",
+      "employees": 894,
+      "founded": 1993,
+      "description": "RetailSphere provides high-quality innovative solutions in the Finance sector.",
+      "website": "retailsphere.com"
+    },
+    {
+      "id": "26",
+      "name": "LogicChain Freight",
+      "location": "Toronto, CA",
+      "industry": "Data & Analytics",
+      "employees": 3232,
+      "founded": 2012,
+      "description": "LogicChain Freight provides high-quality innovative solutions in the Data & Analytics sector.",
+      "website": "logicchainfreight.com"
+    },
+    {
+      "id": "27",
+      "name": "PixelWave Media",
+      "location": "Atlanta, GA",
+      "industry": "Insurance",
+      "employees": 5119,
+      "founded": 2008,
+      "description": "PixelWave Media provides high-quality innovative solutions in the Insurance sector.",
+      "website": "pixelwavemedia.com"
+    },
+    {
+      "id": "28",
+      "name": "SkillForge EdTech",
+      "location": "Austin, TX",
+      "industry": "Energy",
+      "employees": 4055,
+      "founded": 1996,
+      "description": "SkillForge EdTech provides high-quality innovative solutions in the Energy sector.",
+      "website": "skillforgeedtech.com"
+    },
+    {
+      "id": "29",
+      "name": "SafeGuard Insurance",
+      "location": "Atlanta, GA",
+      "industry": "Energy",
+      "employees": 3728,
+      "founded": 2016,
+      "description": "SafeGuard Insurance provides high-quality innovative solutions in the Energy sector.",
+      "website": "safeguardinsurance.com"
+    },
+    {
+      "id": "30",
+      "name": "MarketSight Analytics",
+      "location": "Austin, TX",
+      "industry": "Insurance",
+      "employees": 5923,
+      "founded": 2004,
+      "description": "MarketSight Analytics provides high-quality innovative solutions in the Insurance sector.",
+      "website": "marketsightanalytics.com"
+    },
+    {
+      "id": "31",
+      "name": "DeepBlue AI",
+      "location": "Toronto, CA",
+      "industry": "Media & Entertainment",
+      "employees": 1878,
+      "founded": 1995,
+      "description": "DeepBlue AI provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "deepblueai.com"
+    },
+    {
+      "id": "32",
+      "name": "SwiftPay Digital",
+      "location": "Chicago, IL",
+      "industry": "Energy",
+      "employees": 5973,
+      "founded": 1995,
+      "description": "SwiftPay Digital provides high-quality innovative solutions in the Energy sector.",
+      "website": "swiftpaydigital.com"
+    },
+    {
+      "id": "33",
+      "name": "HealWell Diagnostics",
+      "location": "Seattle, WA",
+      "industry": "Retail",
+      "employees": 5111,
+      "founded": 2011,
+      "description": "HealWell Diagnostics provides high-quality innovative solutions in the Retail sector.",
+      "website": "healwelldiagnostics.com"
+    },
+    {
+      "id": "34",
+      "name": "SunCore Renewables",
+      "location": "Denver, CO",
+      "industry": "Insurance",
+      "employees": 360,
+      "founded": 2019,
+      "description": "SunCore Renewables provides high-quality innovative solutions in the Insurance sector.",
+      "website": "suncorerenewables.com"
+    },
+    {
+      "id": "35",
+      "name": "UrbanCart Retail",
+      "location": "Toronto, CA",
+      "industry": "Media & Entertainment",
+      "employees": 2092,
+      "founded": 1980,
+      "description": "UrbanCart Retail provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "urbancartretail.com"
+    },
+    {
+      "id": "36",
+      "name": "BrightVision Media",
+      "location": "Atlanta, GA",
+      "industry": "Media & Entertainment",
+      "employees": 3506,
+      "founded": 2022,
+      "description": "BrightVision Media provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "brightvisionmedia.com"
+    },
+    {
+      "id": "37",
+      "name": "MegaLogix Transport",
+      "location": "Seattle, WA",
+      "industry": "Healthcare",
+      "employees": 825,
+      "founded": 2009,
+      "description": "MegaLogix Transport provides high-quality innovative solutions in the Healthcare sector.",
+      "website": "megalogixtransport.com"
+    },
+    {
+      "id": "38",
+      "name": "ThinkBridge Education",
+      "location": "San Francisco, CA",
+      "industry": "Media & Entertainment",
+      "employees": 3005,
+      "founded": 1982,
+      "description": "ThinkBridge Education provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "thinkbridgeeducation.com"
+    },
+    {
+      "id": "39",
+      "name": "ShieldSure Insurance",
+      "location": "Chicago, IL",
+      "industry": "Data & Analytics",
+      "employees": 5278,
+      "founded": 2013,
+      "description": "ShieldSure Insurance provides high-quality innovative solutions in the Data & Analytics sector.",
+      "website": "shieldsureinsurance.com"
+    },
+    {
+      "id": "40",
+      "name": "InsightEdge Data",
+      "location": "Seattle, WA",
+      "industry": "Healthcare",
+      "employees": 1565,
+      "founded": 1992,
+      "description": "InsightEdge Data provides high-quality innovative solutions in the Healthcare sector.",
+      "website": "insightedgedata.com"
+    },
+    {
+      "id": "41",
+      "name": "AlphaCore Tech",
+      "location": "Denver, CO",
+      "industry": "Insurance",
+      "employees": 5985,
+      "founded": 1993,
+      "description": "AlphaCore Tech provides high-quality innovative solutions in the Insurance sector.",
+      "website": "alphacoretech.com"
+    },
+    {
+      "id": "42",
+      "name": "BluePeak Finance",
+      "location": "Seattle, WA",
+      "industry": "Finance",
+      "employees": 132,
+      "founded": 2001,
+      "description": "BluePeak Finance provides high-quality innovative solutions in the Finance sector.",
+      "website": "bluepeakfinance.com"
+    },
+    {
+      "id": "43",
+      "name": "LifePulse Healthcare",
+      "location": "San Francisco, CA",
+      "industry": "Logistics",
+      "employees": 3598,
+      "founded": 1990,
+      "description": "LifePulse Healthcare provides high-quality innovative solutions in the Logistics sector.",
+      "website": "lifepulsehealthcare.com"
+    },
+    {
+      "id": "44",
+      "name": "EcoVolt Energy",
+      "location": "New York, NY",
+      "industry": "Finance",
+      "employees": 946,
+      "founded": 2020,
+      "description": "EcoVolt Energy provides high-quality innovative solutions in the Finance sector.",
+      "website": "ecovoltenergy.com"
+    },
+    {
+      "id": "45",
+      "name": "ShopMatrix Retail",
+      "location": "Atlanta, GA",
+      "industry": "Media & Entertainment",
+      "employees": 1500,
+      "founded": 1992,
+      "description": "ShopMatrix Retail provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "shopmatrixretail.com"
+    },
+    {
+      "id": "46",
+      "name": "LogiMaster Transport",
+      "location": "New York, NY",
+      "industry": "Finance",
+      "employees": 5187,
+      "founded": 1990,
+      "description": "LogiMaster Transport provides high-quality innovative solutions in the Finance sector.",
+      "website": "logimastertransport.com"
+    },
+    {
+      "id": "47",
+      "name": "Streamline Media",
+      "location": "Toronto, CA",
+      "industry": "Finance",
+      "employees": 4191,
+      "founded": 1981,
+      "description": "Streamline Media provides high-quality innovative solutions in the Finance sector.",
+      "website": "streamlinemedia.com"
+    },
+    {
+      "id": "48",
+      "name": "EduRise Learning",
+      "location": "San Francisco, CA",
+      "industry": "Insurance",
+      "employees": 2738,
+      "founded": 2020,
+      "description": "EduRise Learning provides high-quality innovative solutions in the Insurance sector.",
+      "website": "eduriselearning.com"
+    },
+    {
+      "id": "49",
+      "name": "SecureNet Insurance",
+      "location": "Denver, CO",
+      "industry": "Energy",
+      "employees": 391,
+      "founded": 2015,
+      "description": "SecureNet Insurance provides high-quality innovative solutions in the Energy sector.",
+      "website": "securenetinsurance.com"
+    },
+    {
+      "id": "50",
+      "name": "SmartAnalytics Hub",
+      "location": "New York, NY",
+      "industry": "Data & Analytics",
+      "employees": 346,
+      "founded": 1995,
+      "description": "SmartAnalytics Hub provides high-quality innovative solutions in the Data & Analytics sector.",
+      "website": "smartanalyticshub.com"
+    },
+    {
+      "id": "51",
+      "name": "CloudHaven Systems",
+      "location": "San Francisco, CA",
+      "industry": "Logistics",
+      "employees": 3570,
+      "founded": 1992,
+      "description": "CloudHaven Systems provides high-quality innovative solutions in the Logistics sector.",
+      "website": "cloudhavensystems.com"
+    },
+    {
+      "id": "52",
+      "name": "FinNova Holdings",
+      "location": "Denver, CO",
+      "industry": "Education",
+      "employees": 3625,
+      "founded": 2001,
+      "description": "FinNova Holdings provides high-quality innovative solutions in the Education sector.",
+      "website": "finnovaholdings.com"
+    },
+    {
+      "id": "53",
+      "name": "Vitalis Health",
+      "location": "Boston, MA",
+      "industry": "Energy",
+      "employees": 3899,
+      "founded": 1987,
+      "description": "Vitalis Health provides high-quality innovative solutions in the Energy sector.",
+      "website": "vitalishealth.com"
+    },
+    {
+      "id": "54",
+      "name": "GreenLeaf Energy",
+      "location": "Chicago, IL",
+      "industry": "Media & Entertainment",
+      "employees": 528,
+      "founded": 1983,
+      "description": "GreenLeaf Energy provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "greenleafenergy.com"
+    },
+    {
+      "id": "55",
+      "name": "RetailHive",
+      "location": "Atlanta, GA",
+      "industry": "Media & Entertainment",
+      "employees": 274,
+      "founded": 1984,
+      "description": "RetailHive provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "retailhive.com"
+    },
+    {
+      "id": "56",
+      "name": "CargoMotion Logistics",
+      "location": "Los Angeles, CA",
+      "industry": "Technology",
+      "employees": 925,
+      "founded": 1980,
+      "description": "CargoMotion Logistics provides high-quality innovative solutions in the Technology sector.",
+      "website": "cargomotionlogistics.com"
+    },
+    {
+      "id": "57",
+      "name": "CineStudio Media",
+      "location": "Boston, MA",
+      "industry": "Media & Entertainment",
+      "employees": 1986,
+      "founded": 1997,
+      "description": "CineStudio Media provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "cinestudiomedia.com"
+    },
+    {
+      "id": "58",
+      "name": "LearnSmart Academy",
+      "location": "Toronto, CA",
+      "industry": "Finance",
+      "employees": 4472,
+      "founded": 2002,
+      "description": "LearnSmart Academy provides high-quality innovative solutions in the Finance sector.",
+      "website": "learnsmartacademy.com"
+    },
+    {
+      "id": "59",
+      "name": "PrimeGuard Insurance",
+      "location": "Los Angeles, CA",
+      "industry": "Media & Entertainment",
+      "employees": 5526,
+      "founded": 2002,
+      "description": "PrimeGuard Insurance provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "primeguardinsurance.com"
+    },
+    {
+      "id": "60",
+      "name": "DataFusion Labs",
+      "location": "Austin, TX",
+      "industry": "Data & Analytics",
+      "employees": 59,
+      "founded": 2014,
+      "description": "DataFusion Labs provides high-quality innovative solutions in the Data & Analytics sector.",
+      "website": "datafusionlabs.com"
+    },
+    {
+      "id": "61",
+      "name": "NovaTech Dynamics",
+      "location": "Denver, CO",
+      "industry": "Logistics",
+      "employees": 4683,
+      "founded": 1994,
+      "description": "NovaTech Dynamics provides high-quality innovative solutions in the Logistics sector.",
+      "website": "novatechdynamics.com"
+    },
+    {
+      "id": "62",
+      "name": "FinanceBridge Co",
+      "location": "Chicago, IL",
+      "industry": "Technology",
+      "employees": 1359,
+      "founded": 1999,
+      "description": "FinanceBridge Co provides high-quality innovative solutions in the Technology sector.",
+      "website": "financebridgeco.com"
+    },
+    {
+      "id": "63",
+      "name": "HealthPrime Labs",
+      "location": "Atlanta, GA",
+      "industry": "Finance",
+      "employees": 978,
+      "founded": 2003,
+      "description": "HealthPrime Labs provides high-quality innovative solutions in the Finance sector.",
+      "website": "healthprimelabs.com"
+    },
+    {
+      "id": "64",
+      "name": "EcoLink Power",
+      "location": "Chicago, IL",
+      "industry": "Energy",
+      "employees": 1504,
+      "founded": 1991,
+      "description": "EcoLink Power provides high-quality innovative solutions in the Energy sector.",
+      "website": "ecolinkpower.com"
+    },
+    {
+      "id": "65",
+      "name": "RetailMax Global",
+      "location": "Chicago, IL",
+      "industry": "Healthcare",
+      "employees": 2545,
+      "founded": 2012,
+      "description": "RetailMax Global provides high-quality innovative solutions in the Healthcare sector.",
+      "website": "retailmaxglobal.com"
+    },
+    {
+      "id": "66",
+      "name": "TransRoute Logistics",
+      "location": "Denver, CO",
+      "industry": "Healthcare",
+      "employees": 1494,
+      "founded": 1981,
+      "description": "TransRoute Logistics provides high-quality innovative solutions in the Healthcare sector.",
+      "website": "transroutelogistics.com"
+    },
+    {
+      "id": "67",
+      "name": "MediaSphere Creations",
+      "location": "Austin, TX",
+      "industry": "Media & Entertainment",
+      "employees": 4409,
+      "founded": 2012,
+      "description": "MediaSphere Creations provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "mediaspherecreations.com"
+    },
+    {
+      "id": "68",
+      "name": "EduPath Systems",
+      "location": "Los Angeles, CA",
+      "industry": "Technology",
+      "employees": 353,
+      "founded": 1996,
+      "description": "EduPath Systems provides high-quality innovative solutions in the Technology sector.",
+      "website": "edupathsystems.com"
+    },
+    {
+      "id": "69",
+      "name": "RiskSafe Insurance",
+      "location": "Toronto, CA",
+      "industry": "Energy",
+      "employees": 2498,
+      "founded": 1983,
+      "description": "RiskSafe Insurance provides high-quality innovative solutions in the Energy sector.",
+      "website": "risksafeinsurance.com"
+    },
+    {
+      "id": "70",
+      "name": "InsightVista Analytics",
+      "location": "Chicago, IL",
+      "industry": "Technology",
+      "employees": 694,
+      "founded": 1991,
+      "description": "InsightVista Analytics provides high-quality innovative solutions in the Technology sector.",
+      "website": "insightvistaanalytics.com"
+    },
+    {
+      "id": "71",
+      "name": "CoreLogic AI",
+      "location": "New York, NY",
+      "industry": "Data & Analytics",
+      "employees": 2002,
+      "founded": 2014,
+      "description": "CoreLogic AI provides high-quality innovative solutions in the Data & Analytics sector.",
+      "website": "corelogicai.com"
+    },
+    {
+      "id": "72",
+      "name": "PayReady Finance",
+      "location": "Atlanta, GA",
+      "industry": "Energy",
+      "employees": 4247,
+      "founded": 1990,
+      "description": "PayReady Finance provides high-quality innovative solutions in the Energy sector.",
+      "website": "payreadyfinance.com"
+    },
+    {
+      "id": "73",
+      "name": "Medline Diagnostics",
+      "location": "San Francisco, CA",
+      "industry": "Logistics",
+      "employees": 4189,
+      "founded": 2012,
+      "description": "Medline Diagnostics provides high-quality innovative solutions in the Logistics sector.",
+      "website": "medlinediagnostics.com"
+    },
+    {
+      "id": "74",
+      "name": "SunVolt Renewables",
+      "location": "San Francisco, CA",
+      "industry": "Logistics",
+      "employees": 107,
+      "founded": 2022,
+      "description": "SunVolt Renewables provides high-quality innovative solutions in the Logistics sector.",
+      "website": "sunvoltrenewables.com"
+    },
+    {
+      "id": "75",
+      "name": "UrbanMart Retail",
+      "location": "San Francisco, CA",
+      "industry": "Technology",
+      "employees": 3826,
+      "founded": 1984,
+      "description": "UrbanMart Retail provides high-quality innovative solutions in the Technology sector.",
+      "website": "urbanmartretail.com"
+    },
+    {
+      "id": "76",
+      "name": "PrimeMedia Group",
+      "location": "Denver, CO",
+      "industry": "Insurance",
+      "employees": 1889,
+      "founded": 1991,
+      "description": "PrimeMedia Group provides high-quality innovative solutions in the Insurance sector.",
+      "website": "primemediagroup.com"
+    },
+    {
+      "id": "77",
+      "name": "RapidMove Logistics",
+      "location": "Atlanta, GA",
+      "industry": "Retail",
+      "employees": 2425,
+      "founded": 2009,
+      "description": "RapidMove Logistics provides high-quality innovative solutions in the Retail sector.",
+      "website": "rapidmovelogistics.com"
+    },
+    {
+      "id": "78",
+      "name": "LearnHub EdTech",
+      "location": "Atlanta, GA",
+      "industry": "Media & Entertainment",
+      "employees": 4352,
+      "founded": 2019,
+      "description": "LearnHub EdTech provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "learnhubedtech.com"
+    },
+    {
+      "id": "79",
+      "name": "ShieldEdge Insurance",
+      "location": "New York, NY",
+      "industry": "Media & Entertainment",
+      "employees": 2589,
+      "founded": 2020,
+      "description": "ShieldEdge Insurance provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "shieldedgeinsurance.com"
+    },
+    {
+      "id": "80",
+      "name": "MetricFlow Analytics",
+      "location": "Austin, TX",
+      "industry": "Healthcare",
+      "employees": 710,
+      "founded": 2001,
+      "description": "MetricFlow Analytics provides high-quality innovative solutions in the Healthcare sector.",
+      "website": "metricflowanalytics.com"
+    },
+    {
+      "id": "81",
+      "name": "CloudVision Tech",
+      "location": "Los Angeles, CA",
+      "industry": "Retail",
+      "employees": 607,
+      "founded": 2021,
+      "description": "CloudVision Tech provides high-quality innovative solutions in the Retail sector.",
+      "website": "cloudvisiontech.com"
+    },
+    {
+      "id": "82",
+      "name": "BlueStone Capital",
+      "location": "Toronto, CA",
+      "industry": "Media & Entertainment",
+      "employees": 5201,
+      "founded": 2011,
+      "description": "BlueStone Capital provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "bluestonecapital.com"
+    },
+    {
+      "id": "83",
+      "name": "HealthCore Systems",
+      "location": "San Francisco, CA",
+      "industry": "Finance",
+      "employees": 2682,
+      "founded": 1987,
+      "description": "HealthCore Systems provides high-quality innovative solutions in the Finance sector.",
+      "website": "healthcoresystems.com"
+    },
+    {
+      "id": "84",
+      "name": "EcoSpark Energy",
+      "location": "Atlanta, GA",
+      "industry": "Technology",
+      "employees": 1638,
+      "founded": 1998,
+      "description": "EcoSpark Energy provides high-quality innovative solutions in the Technology sector.",
+      "website": "ecosparkenergy.com"
+    },
+    {
+      "id": "85",
+      "name": "RetailWorld Co",
+      "location": "Denver, CO",
+      "industry": "Technology",
+      "employees": 2620,
+      "founded": 2003,
+      "description": "RetailWorld Co provides high-quality innovative solutions in the Technology sector.",
+      "website": "retailworldco.com"
+    },
+    {
+      "id": "86",
+      "name": "MoveIt Logistics",
+      "location": "Toronto, CA",
+      "industry": "Finance",
+      "employees": 2283,
+      "founded": 2010,
+      "description": "MoveIt Logistics provides high-quality innovative solutions in the Finance sector.",
+      "website": "moveitlogistics.com"
+    },
+    {
+      "id": "87",
+      "name": "VisionCraft Media",
+      "location": "Seattle, WA",
+      "industry": "Technology",
+      "employees": 1951,
+      "founded": 2006,
+      "description": "VisionCraft Media provides high-quality innovative solutions in the Technology sector.",
+      "website": "visioncraftmedia.com"
+    },
+    {
+      "id": "88",
+      "name": "SmartLearn Institute",
+      "location": "Chicago, IL",
+      "industry": "Insurance",
+      "employees": 3433,
+      "founded": 2021,
+      "description": "SmartLearn Institute provides high-quality innovative solutions in the Insurance sector.",
+      "website": "smartlearninstitute.com"
+    },
+    {
+      "id": "89",
+      "name": "SafeLife Insurance",
+      "location": "Chicago, IL",
+      "industry": "Healthcare",
+      "employees": 4916,
+      "founded": 1997,
+      "description": "SafeLife Insurance provides high-quality innovative solutions in the Healthcare sector.",
+      "website": "safelifeinsurance.com"
+    },
+    {
+      "id": "90",
+      "name": "DataVista Systems",
+      "location": "Austin, TX",
+      "industry": "Energy",
+      "employees": 198,
+      "founded": 2016,
+      "description": "DataVista Systems provides high-quality innovative solutions in the Energy sector.",
+      "website": "datavistasystems.com"
+    },
+    {
+      "id": "91",
+      "name": "QuantumSoft Tech",
+      "location": "Chicago, IL",
+      "industry": "Logistics",
+      "employees": 1749,
+      "founded": 2012,
+      "description": "QuantumSoft Tech provides high-quality innovative solutions in the Logistics sector.",
+      "website": "quantumsofttech.com"
+    },
+    {
+      "id": "92",
+      "name": "TrustWave Finance",
+      "location": "New York, NY",
+      "industry": "Retail",
+      "employees": 5357,
+      "founded": 2000,
+      "description": "TrustWave Finance provides high-quality innovative solutions in the Retail sector.",
+      "website": "trustwavefinance.com"
+    },
+    {
+      "id": "93",
+      "name": "HealTech Labs",
+      "location": "Denver, CO",
+      "industry": "Education",
+      "employees": 904,
+      "founded": 2021,
+      "description": "HealTech Labs provides high-quality innovative solutions in the Education sector.",
+      "website": "healtechlabs.com"
+    },
+    {
+      "id": "94",
+      "name": "ReNew Energy Corp",
+      "location": "San Francisco, CA",
+      "industry": "Data & Analytics",
+      "employees": 2339,
+      "founded": 2002,
+      "description": "ReNew Energy Corp provides high-quality innovative solutions in the Data & Analytics sector.",
+      "website": "renewenergycorp.com"
+    },
+    {
+      "id": "95",
+      "name": "ShopLine Retail",
+      "location": "Chicago, IL",
+      "industry": "Logistics",
+      "employees": 4035,
+      "founded": 1981,
+      "description": "ShopLine Retail provides high-quality innovative solutions in the Logistics sector.",
+      "website": "shoplineretail.com"
+    },
+    {
+      "id": "96",
+      "name": "FastTrack Freight",
+      "location": "Toronto, CA",
+      "industry": "Technology",
+      "employees": 829,
+      "founded": 2020,
+      "description": "FastTrack Freight provides high-quality innovative solutions in the Technology sector.",
+      "website": "fasttrackfreight.com"
+    },
+    {
+      "id": "97",
+      "name": "FilmCraft Media",
+      "location": "Seattle, WA",
+      "industry": "Healthcare",
+      "employees": 5069,
+      "founded": 1992,
+      "description": "FilmCraft Media provides high-quality innovative solutions in the Healthcare sector.",
+      "website": "filmcraftmedia.com"
+    },
+    {
+      "id": "98",
+      "name": "EduMaster Global",
+      "location": "Atlanta, GA",
+      "industry": "Logistics",
+      "employees": 3736,
+      "founded": 1995,
+      "description": "EduMaster Global provides high-quality innovative solutions in the Logistics sector.",
+      "website": "edumasterglobal.com"
+    },
+    {
+      "id": "99",
+      "name": "GuardWell Insurance",
+      "location": "Los Angeles, CA",
+      "industry": "Media & Entertainment",
+      "employees": 4487,
+      "founded": 2019,
+      "description": "GuardWell Insurance provides high-quality innovative solutions in the Media & Entertainment sector.",
+      "website": "guardwellinsurance.com"
+    },
+    {
+      "id": "100",
+      "name": "InsightPro Analytics",
+      "location": "Chicago, IL",
+      "industry": "Energy",
+      "employees": 2119,
+      "founded": 2021,
+      "description": "InsightPro Analytics provides high-quality innovative solutions in the Energy sector.",
+      "website": "insightproanalytics.com"
+    }
+  ]
+}
