@@ -28,19 +28,18 @@ export default function FiltersBar() {
   }, [filters.location, filters.industry, sort, dispatch]);
 
   const locations = [
-    "Location",
+    "Austin, TX",
+    "New York, NY",
     "Atlanta, GA",
-    "Bengaluru",
-    "Hyderabad",
-    "Mumbai",
-    "Delhi",
+    "Denver, CO",
+    "Los Angeles, CA",
   ];
   const industries = [
-    "Industry",
     "Software",
     "Finance",
     "Healthcare",
     "Education",
+    "Insurance",
   ];
 
   return (
@@ -62,6 +61,7 @@ export default function FiltersBar() {
           }}
           className="p-2 rounded-lg border"
         >
+          <option value="">Location</option>
           {locations.map((l) => (
             <option key={l} value={l}>
               {l}
@@ -77,6 +77,7 @@ export default function FiltersBar() {
           }}
           className="p-2 rounded-lg border"
         >
+          <option value="">Industry</option>
           {industries.map((i) => (
             <option key={i} value={i}>
               {i}
